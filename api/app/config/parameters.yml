@@ -2,9 +2,9 @@
 parameters:
     database_host: 127.0.0.1
     database_port: null
-    database_name: miles_
-    database_user: miles_
-    database_password: iNou277#22
+    database_name: mana_
+    database_user: mana_
+    database_password: Xrc8u50#11
     mailer_transport: smtp
     mailer_host: 127.0.0.1
     mailer_user: null
